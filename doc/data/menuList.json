@@ -1,0 +1,14 @@
+[{
+  "title": "Getting started",
+  "link": "#/"
+}, {
+  "title": "Components",
+  "link": "#/components/alert",
+  "subMenu": [{
+    "title": "Alert",
+    "link": "/components/alert"
+  }]
+}, {
+  "title": "Directives",
+  "link": "/"
+}]
